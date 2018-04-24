@@ -1,0 +1,30 @@
+{
+  "name": "merner",
+  "version": "1.0.0",
+  "description": "Command line tool to create a MERN stack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarwaleed/merner.git"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "mongo",
+    "mongodb",
+    "express",
+    "expressjs",
+    "babel",
+    "webpack",
+    "skeleton"
+  ],
+  "author": "Omar Waleed <owezzat@gmail.com> (http://www.omarwaleed.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/omarwaleed/merner/issues"
+  },
+  "homepage": "https://github.com/omarwaleed/merner#readme"
+}
